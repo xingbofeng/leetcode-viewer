@@ -5,13 +5,13 @@ Language: javascript,python,python3,c++,c
 
 Last updated: 2017-07-27
 
-I've solved 12/573 problems (107 problems for a fee).
+I've solved 13/573 problems (107 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
 | # | Problems | Solutions | Difficulty |
 |:--:|:-----:|:---------:|:----:|
-|001|[two-sum](https://leetcode.com/problems/two-sum/)| [python3](./001.two-sum/two-sum.py)| Easy|
+|001|[two-sum](https://leetcode.com/problems/two-sum/)| [python](./001.two-sum/two-sum.py)| Easy|
 |002|[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| [c](./002.add-two-numbers/add-two-numbers.c)| Medium|
 |003|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [javascript](./003.longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.js)| Medium|
 |007|[reverse-integer](https://leetcode.com/problems/reverse-integer/)| [c](./007.reverse-integer/reverse-integer.c)| Easy|
@@ -21,5 +21,6 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |019|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [c](./019.remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.c)| Medium|
 |026|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [c](./026.remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.c)| Easy|
 |027|[remove-element](https://leetcode.com/problems/remove-element/)| [c++](./027.remove-element/remove-element.cpp)| Easy|
+|035|[search-insert-position](https://leetcode.com/problems/search-insert-position/)| [c](./035.search-insert-position/search-insert-position.c)| Easy|
 |056|[merge-intervals](https://leetcode.com/problems/merge-intervals/)| [javascript](./056.merge-intervals/merge-intervals.js)| Medium|
 |061|[rotate-list](https://leetcode.com/problems/rotate-list/)| [c](./061.rotate-list/rotate-list.c)| Medium|
