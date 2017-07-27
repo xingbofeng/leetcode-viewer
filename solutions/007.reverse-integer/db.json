@@ -1,0 +1,1 @@
+{"c":"int reverse(int x) {\n  long long reverseNum = 0;\n    while(x != 0) {\n      long long y = x % 10;\n      x = x / 10;\n      reverseNum = 10 * reverseNum + y;\n    }\n    return (reverseNum < INT_MIN || reverseNum > INT_MAX) ? 0 : reverseNum;\n}"}

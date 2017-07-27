@@ -1,0 +1,1 @@
+{"c":"int removeDuplicates(int* nums, int numsSize) {\n    if (numsSize == 0) {\n        return 0;\n    }\n    int result = numsSize;\n    for(int i = 0; i < numsSize - 1; i++) {\n        if (nums[i] == nums[i + 1]) {\n            result--;\n        } else {\n            nums[i - (numsSize - result) + 1] = nums[i + 1];\n        }\n    }\n    return result;\n}"}

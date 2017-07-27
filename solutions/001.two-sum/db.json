@@ -1,0 +1,1 @@
+{"python":"class Solution:\r\n  def twoSum(self, nums, target):\r\n    length = len(nums)\r\n    hashmap = {}\r\n    for i in range(0,length):\r\n      x = nums[i]\r\n      if target - x in hashmap:\r\n        return [hashmap[target -x], i]\r\n      else:\r\n        hashmap[x] = i"}

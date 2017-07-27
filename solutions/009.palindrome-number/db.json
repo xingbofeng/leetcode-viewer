@@ -1,0 +1,1 @@
+{"python":"class Solution(object):\n    def isPalindrome(self, x):\n      if x < 0:\n        return False\n      elif x == 0:\n        return True\n      else :\n        prenum = x\n        reverse = 0\n        while x != 0:\n          y = x % 10\n          x = int(x / 10)\n          reverse = y + 10 * reverse\n        return reverse == prenum"}
