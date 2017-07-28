@@ -1,9 +1,9 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-13/573(107)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-14/573(107)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-0-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Medium-5-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Easy-8-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-9-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
 
@@ -28,6 +28,7 @@
 |019|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [c](.&#x2F;solutions&#x2F;019.remove-nth-node-from-end-of-list&#x2F;remove-nth-node-from-end-of-list.c)|Medium|33.34%||
 |026|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [c](.&#x2F;solutions&#x2F;026.remove-duplicates-from-sorted-array&#x2F;remove-duplicates-from-sorted-array.c)|Easy|35.50%||
 |027|[remove-element](https://leetcode.com/problems/remove-element/)| [c++](.&#x2F;solutions&#x2F;027.remove-element&#x2F;remove-element.cpp)|Easy|38.84%||
+|028|[implement-strstr](https://leetcode.com/problems/implement-strstr/)| [c++](.&#x2F;solutions&#x2F;028.implement-strstr&#x2F;implement-strstr.cpp)|Easy|27.97%||
 |035|[search-insert-position](https://leetcode.com/problems/search-insert-position/)| [c](.&#x2F;solutions&#x2F;035.search-insert-position&#x2F;search-insert-position.c)|Easy|39.66%||
 |056|[merge-intervals](https://leetcode.com/problems/merge-intervals/)| [javascript](.&#x2F;solutions&#x2F;056.merge-intervals&#x2F;merge-intervals.js)|Medium|29.89%||
 |061|[rotate-list](https://leetcode.com/problems/rotate-list/)| [c](.&#x2F;solutions&#x2F;061.rotate-list&#x2F;rotate-list.c)|Medium|24.34%||
