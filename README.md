@@ -1,8 +1,8 @@
 <p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Solved/Total(Locked)-14/573(107)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-15/573(107)-green.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Hard-0-blue.svg?style=flat-square" alt="">
-    <img src="https://img.shields.io/badge/Medium-5-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-6-blue.svg?style=flat-square" alt="">
     <img src="https://img.shields.io/badge/Easy-9-blue.svg?style=flat-square" alt="">
 </p>
 <h3 align="center">My leetcode solutions</h3>
@@ -22,6 +22,7 @@
 |002|[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| [c](.&#x2F;solutions&#x2F;002.add-two-numbers&#x2F;add-two-numbers.c)|Medium|27.64%||
 |003|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [javascript](.&#x2F;solutions&#x2F;003.longest-substring-without-repeating-characters&#x2F;longest-substring-without-repeating-characters.js)|Medium|24.27%||
 |007|[reverse-integer](https://leetcode.com/problems/reverse-integer/)| [c](.&#x2F;solutions&#x2F;007.reverse-integer&#x2F;reverse-integer.c)|Easy|24.32%||
+|008|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/)| [c++](.&#x2F;solutions&#x2F;008.string-to-integer-atoi&#x2F;string-to-integer-atoi.cpp)|Medium|13.96%||
 |009|[palindrome-number](https://leetcode.com/problems/palindrome-number/)| [python](.&#x2F;solutions&#x2F;009.palindrome-number&#x2F;palindrome-number.py)|Easy|35.20%||
 |013|[roman-to-integer](https://leetcode.com/problems/roman-to-integer/)| [python](.&#x2F;solutions&#x2F;013.roman-to-integer&#x2F;roman-to-integer.py)|Easy|45.52%||
 |014|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/)| [c++](.&#x2F;solutions&#x2F;014.longest-common-prefix&#x2F;longest-common-prefix.cpp)|Easy|31.44%||
