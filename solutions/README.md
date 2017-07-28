@@ -1,26 +1,34 @@
-# leetcode solutions using javascript,python,python3,c++,c
-This is my leetcode solution folder.
+<p align="center"><img width="300" src="https://raw.githubusercontent.com/Ma63d/leetcode-spider/master/img/site-logo.png"></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Solved/Total(Locked)-13/573(107)-green.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Hard-0-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Medium-5-blue.svg?style=flat-square" alt="">
+    <img src="https://img.shields.io/badge/Easy-8-blue.svg?style=flat-square" alt="">
+</p>
+<h3 align="center">My leetcode solutions</h3>
 
-Language: javascript,python,python3,c++,c
+<p align="center">
+    <b>Language: javascript python python3 c++ c</b>
+    <br>
+    <b>Last updated: 2017-07-28</b>
+    <br><br>
+</p>
+<!--请保留下面这行信息，让更多用户了解到这个小爬虫，衷心感谢您的支持-->
+<p align="center">The source code is fetched using the tool <a href="https://github.com/Ma63d/leetcode-spider">leetcode-spider</a>.</p>
 
-Last updated: 2017-07-27
+| # | Problems | Solutions | Difficulty | Acceptance | Paid-Only
+|:--:|:-----:|:---------:|:----:|:----:|:----:|
+|001|[two-sum](https://leetcode.com/problems/two-sum/)| [python](.&#x2F;solutions&#x2F;001.two-sum&#x2F;two-sum.py)|Easy|34.13%||
+|002|[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| [c](.&#x2F;solutions&#x2F;002.add-two-numbers&#x2F;add-two-numbers.c)|Medium|27.64%||
+|003|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [javascript](.&#x2F;solutions&#x2F;003.longest-substring-without-repeating-characters&#x2F;longest-substring-without-repeating-characters.js)|Medium|24.27%||
+|007|[reverse-integer](https://leetcode.com/problems/reverse-integer/)| [c](.&#x2F;solutions&#x2F;007.reverse-integer&#x2F;reverse-integer.c)|Easy|24.32%||
+|009|[palindrome-number](https://leetcode.com/problems/palindrome-number/)| [python](.&#x2F;solutions&#x2F;009.palindrome-number&#x2F;palindrome-number.py)|Easy|35.20%||
+|013|[roman-to-integer](https://leetcode.com/problems/roman-to-integer/)| [python](.&#x2F;solutions&#x2F;013.roman-to-integer&#x2F;roman-to-integer.py)|Easy|45.52%||
+|014|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/)| [c++](.&#x2F;solutions&#x2F;014.longest-common-prefix&#x2F;longest-common-prefix.cpp)|Easy|31.44%||
+|019|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [c](.&#x2F;solutions&#x2F;019.remove-nth-node-from-end-of-list&#x2F;remove-nth-node-from-end-of-list.c)|Medium|33.34%||
+|026|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [c](.&#x2F;solutions&#x2F;026.remove-duplicates-from-sorted-array&#x2F;remove-duplicates-from-sorted-array.c)|Easy|35.50%||
+|027|[remove-element](https://leetcode.com/problems/remove-element/)| [c++](.&#x2F;solutions&#x2F;027.remove-element&#x2F;remove-element.cpp)|Easy|38.84%||
+|035|[search-insert-position](https://leetcode.com/problems/search-insert-position/)| [c](.&#x2F;solutions&#x2F;035.search-insert-position&#x2F;search-insert-position.c)|Easy|39.66%||
+|056|[merge-intervals](https://leetcode.com/problems/merge-intervals/)| [javascript](.&#x2F;solutions&#x2F;056.merge-intervals&#x2F;merge-intervals.js)|Medium|29.89%||
+|061|[rotate-list](https://leetcode.com/problems/rotate-list/)| [c](.&#x2F;solutions&#x2F;061.rotate-list&#x2F;rotate-list.c)|Medium|24.34%||
 
-I've solved 13/573 problems (107 problems for a fee).
-
-The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
-
-| # | Problems | Solutions | Difficulty |
-|:--:|:-----:|:---------:|:----:|
-|001|[two-sum](https://leetcode.com/problems/two-sum/)| [python](./solutions/001.two-sum/two-sum.py)| Easy|
-|002|[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| [c](./solutions/002.add-two-numbers/add-two-numbers.c)| Medium|
-|003|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [javascript](./solutions/003.longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.js)| Medium|
-|007|[reverse-integer](https://leetcode.com/problems/reverse-integer/)| [c](./solutions/007.reverse-integer/reverse-integer.c)| Easy|
-|009|[palindrome-number](https://leetcode.com/problems/palindrome-number/)| [python](./solutions/009.palindrome-number/palindrome-number.py)| Easy|
-|013|[roman-to-integer](https://leetcode.com/problems/roman-to-integer/)| [python](./solutions/013.roman-to-integer/roman-to-integer.py)| Easy|
-|014|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/)| [c++](./solutions/014.longest-common-prefix/longest-common-prefix.cpp)| Easy|
-|019|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [c](./solutions/019.remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.c)| Medium|
-|026|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [c](./solutions/026.remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.c)| Easy|
-|027|[remove-element](https://leetcode.com/problems/remove-element/)| [c++](./solutions/027.remove-element/remove-element.cpp)| Easy|
-|035|[search-insert-position](https://leetcode.com/problems/search-insert-position/)| [c](./solutions/035.search-insert-position/search-insert-position.c)| Easy|
-|056|[merge-intervals](https://leetcode.com/problems/merge-intervals/)| [javascript](./solutions/056.merge-intervals/merge-intervals.js)| Medium|
-|061|[rotate-list](https://leetcode.com/problems/rotate-list/)| [c](./solutions/061.rotate-list/rotate-list.c)| Medium|
