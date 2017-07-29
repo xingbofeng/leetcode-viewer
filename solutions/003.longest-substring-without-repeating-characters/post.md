@@ -1,4 +1,3 @@
-# 003.longest-substring-without-repeating-characters
 这道题是晚上利用业余时间在公司做的，因为没有`C/C++`的环境，所以简单易行使用了`JavaScript`。
 
 首先看题意，题意是叫我们找到最长非重复子串，其实个人觉得这个题意有点难懂哈，看例子：`abcabcbb`这个字符串，找到一个`string`，里面的任何一个`char`都不重复，显然是`abc`，这样好理解一些。
